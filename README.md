@@ -1,2 +1,2 @@
-# FlutterCounter-Saya-
+# FlutterCounter-Sayac
 Basit seviyede flutter sayaç projesi 
